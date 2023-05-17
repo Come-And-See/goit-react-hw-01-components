@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
 
 import {Profile} from 'components/Profil/Profile';
 import user from 'Json/user.json';
